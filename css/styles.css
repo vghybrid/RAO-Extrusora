@@ -1,0 +1,9 @@
+@import url(./variables.css);
+
+nav a img {
+    height: 110px;
+}
+
+.hiper {
+    color: var(--color-secundario) !important;
+}
